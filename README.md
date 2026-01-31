@@ -2,7 +2,7 @@
 
 Find matching Xcode colour assets by hex value, scanning `.xcassets` colour sets.
 
-## Install (pipx, private GitHub repo)
+## Install (pipx)
 
 First, ensure you can clone via SSH:
 
